@@ -21,6 +21,7 @@ I love Programming :cupid:.
 <a href="https://github.com/yassine-alaoui/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=yassine-alaoui&show_icons=true&theme=dark&count_private=true" />
 </a>
+[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&login=yaalaoui)]
 </p>
 <div align="center">
 <h2> <b>Contact me :</b> </h2>
