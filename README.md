@@ -6,7 +6,7 @@ color: white" href="https://1337.ma/en/"> 1337</a> Benguerir, Morocco 🇲🇦.
 I love Programming :cupid:.
 </p>
 
-* 🌱 I’m currently learning Algorithms and object oriented programming.
+* 🌱 I’m currently learning Algorithms and data structures.
 * 💬 Ask me about anything I'll do my best to help anyone with any problem.
 * :white_check_mark: Hobbies other than coding :
   * Long walks :runner:
